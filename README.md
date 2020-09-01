@@ -1,6 +1,8 @@
 # Luigi Workshop
 
-Everything you need for setting this up is in the `environment.yml` file.
+Install [Anaconda](https://www.anaconda.com/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) on your machine.
+
+Everything you need for this workshop is in the `environment.yml` file.
 
 ```
 conda env create -f environment.yml
