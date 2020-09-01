@@ -1,0 +1,14 @@
+name: luigi-workshop
+channels:
+ - conda-forge
+ - bioconda
+dependencies:
+ - sra-tools
+ - RSEM
+ - STAR
+ - jupyterlab
+ - python=3
+ - pip
+ - pip:
+    - luigi
+    - bioluigi
