@@ -11,5 +11,5 @@ content can be found in the notebook.
 
 ```
 conda activate luigi-workshop
-jupyterlab
+jupyter lab
 ```
