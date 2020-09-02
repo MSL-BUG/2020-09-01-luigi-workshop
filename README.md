@@ -15,3 +15,8 @@ content can be found in the notebook.
 conda activate luigi-workshop
 jupyter lab
 ```
+
+More information on projects based on Luigi:
+
+ - [Bioluigi](https://github.com/PavlidisLab/bioluigi)
+ - [PavLab RNA-Seq Pipeline](https://github.com/pavlidisLab/rnaseq-pipeline)
